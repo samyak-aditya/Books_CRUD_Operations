@@ -1,5 +1,5 @@
 # Applying for Node.js Development internship
 
-##TheGoodGameTheory
+## TheGoodGameTheory
 
-###CRUD Operations assignment
+### CRUD Operations assignment
